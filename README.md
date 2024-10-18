@@ -9,8 +9,9 @@
 - **Database Querying**: Retrieve sales and revenue data for analytical purposes.
 
 ## Project Structure
+ ```bash
 ShopMaster/ │ ├── main.py # E-commerce system implementation ├── inventory.py # Inventory management system implementation ├── queries.sql # SQL queries for database operations ├── README.md # Project documentation
-
+```
 
 ## Getting Started
 
