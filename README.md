@@ -10,7 +10,13 @@
 
 ## Project Structure
  ```bash
-ShopMaster/ │ ├── main.py # E-commerce system implementation ├── inventory.py # Inventory management system implementation ├── queries.sql # SQL queries for database operations ├── README.md # Project documentation
+ShopMaster/
+│
+├── main.py         # E-commerce system implementation
+├── inventory.py    # Inventory management system implementation
+├── queries.sql     # SQL queries for database operations
+├── README.md       # Project documentation
+
 ```
 
 ## Getting Started
